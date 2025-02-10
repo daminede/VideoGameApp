@@ -1,0 +1,98 @@
+﻿@{
+    Layout = "_LoginLayout";
+    ViewData["Title"] = "Login";
+}
+
+<style>
+    .login-container {
+        background-color: #f8f9fa; /* Light background color */
+        padding: 40px; /* Increased padding for a larger panel */
+        border-radius: 10px;
+        max-width: 800px; /* Increased max-width for a larger panel */
+        margin: auto; /* Center the panel */
+    }
+
+    .form-label {
+        width: 150px; /* Increased width for labels */
+    }
+
+    /* Dark mode styles */
+    .dark-mode .login-container {
+        background-color: #333; /* Black background for dark mode */
+        color: #fff; /* White text for dark mode */
+    }
+
+    .dark-mode .form-control {
+        background-color: #555; /* Dark grey background for text boxes */
+        color: #fff; /* White text for text boxes */
+        border: 1px solid #777; /* Darker border for text boxes */
+    }
+
+    .dark-mode .form-label {
+        color: #fff; /* White text for labels */
+    }
+</style>
+
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-8 login-container">
+            <h2 class="text-center">Login</h2>
+            <form asp-controller="Account" asp-action="Login" method="post">
+                <div class="mb-3 d-flex align-items-center">
+                    <label asp-for="Username" class="form-label me-3">Username</label>
+                    <input asp-for="Username" class="form-control" required />
+                    <span asp-validation-for="Username" class="text-danger ms-2"></span>
+                </div>
+
+                <div class="mb-3 d-flex align-items-center">
+                    <label asp-for="Password" class="form-label me-3">Password</label>
+                    <input asp-for="Password" class="form-control" type="password" required />
+                    <span asp-validation-for="Password" class="text-danger ms-2"></span>
+                </div>
+
+                <div class="mb-3 form-check">
+                    <input asp-for="RememberMe" class="form-check-input" type="checkbox" />
+                    <label asp-for="RememberMe" class="form-check-label">Remember Me</label>
+                </div>
+
+                <div class="text-center">
+                    <button type="submit" class="btn btn-primary w-100">Login</button>
+                </div>
+            </form>
+
+            <div class="mt-4 text-center">
+                <a href="/Home/Index" class="btn btn-secondary mx-2">Back to Home</a>
+                <a href="/Account/Register" class="btn btn-success mx-2">Register</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
+
+<script>
+    var toggleButton = document.getElementById("toggleButton");
+    var body = document.body;
+
+    toggleButton.addEventListener("click", function () {
+        body.classList.toggle("dark-mode");
+
+        if (body.classList.contains("dark-mode")) {
+            localStorage.setItem("darkMode", "enabled");
+            toggleButton.innerHTML = "☀️";
+        } else {
+            localStorage.setItem("darkMode", "disabled");
+            toggleButton.innerHTML = "🌙";
+        }
+    });
+
+    if (localStorage.getItem("darkMode") === "enabled") {
+        body.classList.add("dark-mode");
+        toggleButton.innerHTML = "☀️";
+    } else {
+        body.classList.remove("dark-mode");
+        toggleButton.innerHTML = "🌙";
+    }
+</script>

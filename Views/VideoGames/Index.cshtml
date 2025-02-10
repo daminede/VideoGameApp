@@ -1,0 +1,74 @@
+﻿@model IEnumerable<VideoGameApp.Models.VideoGame>
+
+@{
+    Layout = "_RegisterLayout";
+    ViewData["Title"] = "Home";
+}
+
+<h2 class="mb-4">Welcome to the Video Game App!</h2>
+<p>This is a simple app for displaying and managing video game information.</p>
+
+<a href="@Url.Action("Create", "VideoGames")" class="btn btn-success mb-3">Add New Game</a>
+
+@if (Model != null && Model.Any())
+{
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Title</th>
+                <th>Price</th>
+                <th>Genre</th>
+                <th>Developer</th>
+                <th>Release Date</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var game in Model)
+            {
+                <tr>
+                    <td>@game.Title</td>
+                    <td>@game.Price.ToString("C")</td>
+                    <td>@game.Genre</td>
+                    <td>@game.Developer</td>
+                    <td>@game.ReleaseDate.ToShortDateString()</td>
+                    <td>
+                        <a href="@Url.Action("Edit", "VideoGames", new { id = game.Id })" class="btn btn-primary btn-sm">Edit</a>
+                        <a href="@Url.Action("Delete", "VideoGames", new { id = game.Id })" class="btn btn-danger btn-sm">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>No video games available. Add one to get started!</p>
+}
+
+<div class="text-center mt-4">
+    <a href="@Url.Action("Popular", "VideoGames")" class="btn btn-primary">View Popular Games</a>
+</div>
+
+<style>
+    .container {
+        background-color: #f8f9fa; /* Light background color */
+        padding: 40px; /* Increased padding for a larger panel */
+        border-radius: 10px;
+        max-width: 800px; /* Increased max-width for a larger panel */
+        margin: auto; /* Center the panel */
+    }
+
+    /* Dark mode styles */
+    .dark-mode .container {
+        background-color: #333; /* Black background for dark mode */
+        color: #fff; /* White text for dark mode */
+    }
+
+    .dark-mode .btn-primary {
+        background-color: #555; /* Dark grey background for buttons in dark mode */
+        border: 1px solid #777; /* Darker border for buttons in dark mode */
+    }
+</style>
+
+

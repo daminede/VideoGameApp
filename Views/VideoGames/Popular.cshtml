@@ -1,0 +1,67 @@
+﻿@{
+    Layout = "_RegisterLayout";
+    ViewData["Title"] = "Popular Games";
+}
+
+<h2>Popular Games</h2>
+
+<div class="row">
+    @foreach (var game in Model)
+    {
+        <div class="col-md-4">
+            <div class="card mb-4 shadow-sm">
+                <img src="@game.ImageUrl" class="card-img-top" alt="@game.Title">
+                <div class="card-body">
+                    <h5 class="card-title">@game.Title</h5>
+                    <a href="@game.PurchaseUrl" class="btn btn-primary" target="_blank">Buy Now</a>
+                </div>
+            </div>
+        </div>
+    }
+</div>
+
+<style>
+    .card {
+        background-color: #f8f9fa; /* Light background color */
+        border-radius: 10px;
+    }
+
+    .dark-mode .card {
+        background-color: #333; /* Black background for dark mode */
+        color: #fff; /* White text for dark mode */
+    }
+
+    .dark-mode .card-title {
+        color: #fff; /* White text for card titles in dark mode */
+    }
+
+    .dark-mode .btn-primary {
+        background-color: #555; /* Dark grey background for buttons in dark mode */
+        border: 1px solid #777; /* Darker border for buttons in dark mode */
+    }
+</style>
+
+@* <script>
+    var toggleButton = document.getElementById("toggleButton");
+    var body = document.body;
+
+    toggleButton.addEventListener("click", function () {
+        body.classList.toggle("dark-mode");
+
+        if (body.classList.contains("dark-mode")) {
+            localStorage.setItem("darkMode", "enabled");
+            toggleButton.innerHTML = "☀️";
+        } else {
+            localStorage.setItem("darkMode", "disabled");
+            toggleButton.innerHTML = "🌙";
+        }
+    });
+
+    if (localStorage.getItem("darkMode") === "enabled") {
+        body.classList.add("dark-mode");
+        toggleButton.innerHTML = "☀️";
+    } else {
+        body.classList.remove("dark-mode");
+        toggleButton.innerHTML = "🌙";
+    }
+</script> *@
