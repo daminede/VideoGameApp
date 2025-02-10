@@ -3,6 +3,42 @@
   "WorkspaceRootPath": "C:\\Users\\uif44780\\source\\repos\\VideoGameApp_project\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{565E3165-356E-4E1C-9D54-C6BD717DB419}|VideoGameApp.csproj|c:\\users\\uif44780\\source\\repos\\videogameapp_project\\migrations\\20250208212022_addidentitytables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{565E3165-356E-4E1C-9D54-C6BD717DB419}|VideoGameApp.csproj|solutionrelative:migrations\\20250208212022_addidentitytables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{565E3165-356E-4E1C-9D54-C6BD717DB419}|VideoGameApp.csproj|c:\\users\\uif44780\\source\\repos\\videogameapp_project\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{565E3165-356E-4E1C-9D54-C6BD717DB419}|VideoGameApp.csproj|solutionrelative:seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{565E3165-356E-4E1C-9D54-C6BD717DB419}|VideoGameApp.csproj|c:\\users\\uif44780\\source\\repos\\videogameapp_project\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{565E3165-356E-4E1C-9D54-C6BD717DB419}|VideoGameApp.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{565E3165-356E-4E1C-9D54-C6BD717DB419}|VideoGameApp.csproj|c:\\users\\uif44780\\source\\repos\\videogameapp_project\\controllers\\videogamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{565E3165-356E-4E1C-9D54-C6BD717DB419}|VideoGameApp.csproj|solutionrelative:controllers\\videogamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{565E3165-356E-4E1C-9D54-C6BD717DB419}|VideoGameApp.csproj|c:\\users\\uif44780\\source\\repos\\videogameapp_project\\videogameapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{565E3165-356E-4E1C-9D54-C6BD717DB419}|VideoGameApp.csproj|solutionrelative:videogameapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{565E3165-356E-4E1C-9D54-C6BD717DB419}|VideoGameApp.csproj|c:\\users\\uif44780\\source\\repos\\videogameapp_project\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{565E3165-356E-4E1C-9D54-C6BD717DB419}|VideoGameApp.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{565E3165-356E-4E1C-9D54-C6BD717DB419}|VideoGameApp.csproj|c:\\users\\uif44780\\source\\repos\\videogameapp_project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{565E3165-356E-4E1C-9D54-C6BD717DB419}|VideoGameApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{565E3165-356E-4E1C-9D54-C6BD717DB419}|VideoGameApp.csproj|c:\\users\\uif44780\\source\\repos\\videogameapp_project\\models\\videogame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{565E3165-356E-4E1C-9D54-C6BD717DB419}|VideoGameApp.csproj|solutionrelative:models\\videogame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{565E3165-356E-4E1C-9D54-C6BD717DB419}|VideoGameApp.csproj|c:\\users\\uif44780\\source\\repos\\videogameapp_project\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{565E3165-356E-4E1C-9D54-C6BD717DB419}|VideoGameApp.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{565E3165-356E-4E1C-9D54-C6BD717DB419}|VideoGameApp.csproj|c:\\users\\uif44780\\source\\repos\\videogameapp_project\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{565E3165-356E-4E1C-9D54-C6BD717DB419}|VideoGameApp.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{565E3165-356E-4E1C-9D54-C6BD717DB419}|VideoGameApp.csproj|c:\\users\\uif44780\\source\\repos\\videogameapp_project\\views\\shared\\_registerlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{565E3165-356E-4E1C-9D54-C6BD717DB419}|VideoGameApp.csproj|solutionrelative:views\\shared\\_registerlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{565E3165-356E-4E1C-9D54-C6BD717DB419}|VideoGameApp.csproj|c:\\users\\uif44780\\source\\repos\\videogameapp_project\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{565E3165-356E-4E1C-9D54-C6BD717DB419}|VideoGameApp.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{565E3165-356E-4E1C-9D54-C6BD717DB419}|VideoGameApp.csproj|c:\\users\\uif44780\\source\\repos\\videogameapp_project\\views\\videogames\\popular.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -39,10 +71,6 @@
       "RelativeMoniker": "D:0:0:{565E3165-356E-4E1C-9D54-C6BD717DB419}|VideoGameApp.csproj|solutionrelative:views\\shared\\_loginlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{565E3165-356E-4E1C-9D54-C6BD717DB419}|VideoGameApp.csproj|c:\\users\\uif44780\\source\\repos\\videogameapp_project\\controllers\\videogamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{565E3165-356E-4E1C-9D54-C6BD717DB419}|VideoGameApp.csproj|solutionrelative:controllers\\videogamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{565E3165-356E-4E1C-9D54-C6BD717DB419}|VideoGameApp.csproj|c:\\users\\uif44780\\source\\repos\\videogameapp_project\\models\\populargame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{565E3165-356E-4E1C-9D54-C6BD717DB419}|VideoGameApp.csproj|solutionrelative:models\\populargame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -59,64 +87,12 @@
       "RelativeMoniker": "D:0:0:{565E3165-356E-4E1C-9D54-C6BD717DB419}|VideoGameApp.csproj|solutionrelative:viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{565E3165-356E-4E1C-9D54-C6BD717DB419}|VideoGameApp.csproj|c:\\users\\uif44780\\source\\repos\\videogameapp_project\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{565E3165-356E-4E1C-9D54-C6BD717DB419}|VideoGameApp.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{565E3165-356E-4E1C-9D54-C6BD717DB419}|VideoGameApp.csproj|c:\\users\\uif44780\\source\\repos\\videogameapp_project\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{565E3165-356E-4E1C-9D54-C6BD717DB419}|VideoGameApp.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{565E3165-356E-4E1C-9D54-C6BD717DB419}|VideoGameApp.csproj|c:\\users\\uif44780\\source\\repos\\videogameapp_project\\migrations\\20250210111847_dbupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{565E3165-356E-4E1C-9D54-C6BD717DB419}|VideoGameApp.csproj|solutionrelative:migrations\\20250210111847_dbupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{565E3165-356E-4E1C-9D54-C6BD717DB419}|VideoGameApp.csproj|c:\\users\\uif44780\\source\\repos\\videogameapp_project\\migrations\\20250208212022_addidentitytables.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{565E3165-356E-4E1C-9D54-C6BD717DB419}|VideoGameApp.csproj|solutionrelative:migrations\\20250208212022_addidentitytables.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{565E3165-356E-4E1C-9D54-C6BD717DB419}|VideoGameApp.csproj|c:\\users\\uif44780\\source\\repos\\videogameapp_project\\migrations\\20250209091533_initialmigration.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{565E3165-356E-4E1C-9D54-C6BD717DB419}|VideoGameApp.csproj|solutionrelative:migrations\\20250209091533_initialmigration.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{565E3165-356E-4E1C-9D54-C6BD717DB419}|VideoGameApp.csproj|c:\\users\\uif44780\\source\\repos\\videogameapp_project\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{565E3165-356E-4E1C-9D54-C6BD717DB419}|VideoGameApp.csproj|solutionrelative:migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{565E3165-356E-4E1C-9D54-C6BD717DB419}|VideoGameApp.csproj|c:\\users\\uif44780\\source\\repos\\videogameapp_project\\migrations\\20250210102618_seeddata.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{565E3165-356E-4E1C-9D54-C6BD717DB419}|VideoGameApp.csproj|solutionrelative:migrations\\20250210102618_seeddata.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{565E3165-356E-4E1C-9D54-C6BD717DB419}|VideoGameApp.csproj|c:\\users\\uif44780\\source\\repos\\videogameapp_project\\migrations\\20250210102326_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{565E3165-356E-4E1C-9D54-C6BD717DB419}|VideoGameApp.csproj|solutionrelative:migrations\\20250210102326_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{565E3165-356E-4E1C-9D54-C6BD717DB419}|VideoGameApp.csproj|c:\\users\\uif44780\\source\\repos\\videogameapp_project\\migrations\\20250209091728_updatevideogamesschema.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{565E3165-356E-4E1C-9D54-C6BD717DB419}|VideoGameApp.csproj|solutionrelative:migrations\\20250209091728_updatevideogamesschema.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{565E3165-356E-4E1C-9D54-C6BD717DB419}|VideoGameApp.csproj|c:\\users\\uif44780\\source\\repos\\videogameapp_project\\migrations\\20250208212022_addidentitytables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{565E3165-356E-4E1C-9D54-C6BD717DB419}|VideoGameApp.csproj|solutionrelative:migrations\\20250208212022_addidentitytables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\uif44780\\source\\repos\\VideoGameApp_project\\Migrations\\20250210102618_SeedData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250210102618_SeedData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\uif44780\\source\\repos\\VideoGameApp_project\\Migrations\\20250210102326_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250210102326_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{565E3165-356E-4E1C-9D54-C6BD717DB419}|VideoGameApp.csproj|c:\\users\\uif44780\\source\\repos\\videogameapp_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{565E3165-356E-4E1C-9D54-C6BD717DB419}|VideoGameApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{565E3165-356E-4E1C-9D54-C6BD717DB419}|VideoGameApp.csproj|c:\\users\\uif44780\\source\\repos\\videogameapp_project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{565E3165-356E-4E1C-9D54-C6BD717DB419}|VideoGameApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{565E3165-356E-4E1C-9D54-C6BD717DB419}|VideoGameApp.csproj|c:\\users\\uif44780\\source\\repos\\videogameapp_project\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{565E3165-356E-4E1C-9D54-C6BD717DB419}|VideoGameApp.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -126,7 +102,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -138,357 +114,84 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_RegisterLayout.cshtml",
-              "DocumentMoniker": "C:\\Users\\uif44780\\source\\repos\\VideoGameApp_project\\Views\\Shared\\_RegisterLayout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_RegisterLayout.cshtml",
-              "ToolTip": "C:\\Users\\uif44780\\source\\repos\\VideoGameApp_project\\Views\\Shared\\_RegisterLayout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_RegisterLayout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-10T11:31:03.684Z",
+              "DocumentIndex": 0,
+              "Title": "20250208212022_AddIdentityTables.cs",
+              "DocumentMoniker": "C:\\Users\\uif44780\\source\\repos\\VideoGameApp_project\\Migrations\\20250208212022_AddIdentityTables.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250208212022_AddIdentityTables.cs",
+              "ToolTip": "C:\\Users\\uif44780\\source\\repos\\VideoGameApp_project\\Migrations\\20250208212022_AddIdentityTables.cs",
+              "RelativeToolTip": "Migrations\\20250208212022_AddIdentityTables.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T15:41:41.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\uif44780\\source\\repos\\VideoGameApp_project\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\uif44780\\source\\repos\\VideoGameApp_project\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAgwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-10T15:11:56.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VideoGame.cs",
+              "DocumentMoniker": "C:\\Users\\uif44780\\source\\repos\\VideoGameApp_project\\Models\\VideoGame.cs",
+              "RelativeDocumentMoniker": "Models\\VideoGame.cs",
+              "ToolTip": "C:\\Users\\uif44780\\source\\repos\\VideoGameApp_project\\Models\\VideoGame.cs",
+              "RelativeToolTip": "Models\\VideoGame.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwA0AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T15:09:59.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VideoGameApp.csproj",
+              "DocumentMoniker": "C:\\Users\\uif44780\\source\\repos\\VideoGameApp_project\\VideoGameApp.csproj",
+              "RelativeDocumentMoniker": "VideoGameApp.csproj",
+              "ToolTip": "C:\\Users\\uif44780\\source\\repos\\VideoGameApp_project\\VideoGameApp.csproj",
+              "RelativeToolTip": "VideoGameApp.csproj",
+              "ViewState": "AgIAABIAAAAAAAAAAAApwCAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-10T15:04:55.071Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\uif44780\\source\\repos\\VideoGameApp_project\\Views\\Account\\Register.cshtml",
-              "RelativeDocumentMoniker": "Views\\Account\\Register.cshtml",
-              "ToolTip": "C:\\Users\\uif44780\\source\\repos\\VideoGameApp_project\\Views\\Account\\Register.cshtml",
-              "RelativeToolTip": "Views\\Account\\Register.cshtml",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAABMAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-10T11:27:01.755Z",
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\uif44780\\source\\repos\\VideoGameApp_project\\SeedData.cs",
+              "RelativeDocumentMoniker": "SeedData.cs",
+              "ToolTip": "C:\\Users\\uif44780\\source\\repos\\VideoGameApp_project\\SeedData.cs",
+              "RelativeToolTip": "SeedData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T14:57:48.188Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\uif44780\\source\\repos\\VideoGameApp_project\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\uif44780\\source\\repos\\VideoGameApp_project\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAAAEMAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-10T12:17:26.29Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\uif44780\\source\\repos\\VideoGameApp_project\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\uif44780\\source\\repos\\VideoGameApp_project\\Controllers\\AccountController.cs*",
-              "RelativeToolTip": "Controllers\\AccountController.cs*",
-              "ViewState": "AgIAAEEAAAAAAAAAAAAswGEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T10:41:48.505Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Popular.cshtml",
-              "DocumentMoniker": "C:\\Users\\uif44780\\source\\repos\\VideoGameApp_project\\Views\\VideoGames\\Popular.cshtml",
-              "RelativeDocumentMoniker": "Views\\VideoGames\\Popular.cshtml",
-              "ToolTip": "C:\\Users\\uif44780\\source\\repos\\VideoGameApp_project\\Views\\VideoGames\\Popular.cshtml",
-              "RelativeToolTip": "Views\\VideoGames\\Popular.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-10T12:13:39.228Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\uif44780\\source\\repos\\VideoGameApp_project\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\uif44780\\source\\repos\\VideoGameApp_project\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-10T11:59:22.597Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\uif44780\\source\\repos\\VideoGameApp_project\\Views\\VideoGames\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\VideoGames\\Index.cshtml",
-              "ToolTip": "C:\\Users\\uif44780\\source\\repos\\VideoGameApp_project\\Views\\VideoGames\\Index.cshtml",
-              "RelativeToolTip": "Views\\VideoGames\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-10T13:42:29.025Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\uif44780\\source\\repos\\VideoGameApp_project\\Views\\VideoGames\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\VideoGames\\Create.cshtml",
-              "ToolTip": "C:\\Users\\uif44780\\source\\repos\\VideoGameApp_project\\Views\\VideoGames\\Create.cshtml",
-              "RelativeToolTip": "Views\\VideoGames\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-10T14:01:19.641Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "_LoginLayout.cshtml",
-              "DocumentMoniker": "C:\\Users\\uif44780\\source\\repos\\VideoGameApp_project\\Views\\Shared\\_LoginLayout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_LoginLayout.cshtml",
-              "ToolTip": "C:\\Users\\uif44780\\source\\repos\\VideoGameApp_project\\Views\\Shared\\_LoginLayout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_LoginLayout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-10T13:38:58.35Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "VideoGameController.cs",
-              "DocumentMoniker": "C:\\Users\\uif44780\\source\\repos\\VideoGameApp_project\\Controllers\\VideoGameController.cs",
-              "RelativeDocumentMoniker": "Controllers\\VideoGameController.cs",
-              "ToolTip": "C:\\Users\\uif44780\\source\\repos\\VideoGameApp_project\\Controllers\\VideoGameController.cs",
-              "RelativeToolTip": "Controllers\\VideoGameController.cs",
-              "ViewState": "AgIAADsAAAAAAAAAAAAswFYAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T12:02:04.011Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "PopularGame.cs",
-              "DocumentMoniker": "C:\\Users\\uif44780\\source\\repos\\VideoGameApp_project\\Models\\PopularGame.cs",
-              "RelativeDocumentMoniker": "Models\\PopularGame.cs",
-              "ToolTip": "C:\\Users\\uif44780\\source\\repos\\VideoGameApp_project\\Models\\PopularGame.cs",
-              "RelativeToolTip": "Models\\PopularGame.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T12:16:48.872Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "VideoGameService.cs",
-              "DocumentMoniker": "C:\\Users\\uif44780\\source\\repos\\VideoGameApp_project\\Services\\VideoGameService.cs",
-              "RelativeDocumentMoniker": "Services\\VideoGameService.cs",
-              "ToolTip": "C:\\Users\\uif44780\\source\\repos\\VideoGameApp_project\\Services\\VideoGameService.cs",
-              "RelativeToolTip": "Services\\VideoGameService.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAwwEEAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T11:17:45.443Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\uif44780\\source\\repos\\VideoGameApp_project\\Views\\Account\\Login.cshtml",
-              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
-              "ToolTip": "C:\\Users\\uif44780\\source\\repos\\VideoGameApp_project\\Views\\Account\\Login.cshtml",
-              "RelativeToolTip": "Views\\Account\\Login.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-10T10:27:39.917Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "LoginViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\uif44780\\source\\repos\\VideoGameApp_project\\ViewModels\\LoginViewModel.cs",
-              "RelativeDocumentMoniker": "ViewModels\\LoginViewModel.cs",
-              "ToolTip": "C:\\Users\\uif44780\\source\\repos\\VideoGameApp_project\\ViewModels\\LoginViewModel.cs",
-              "RelativeToolTip": "ViewModels\\LoginViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T12:23:08.144Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\uif44780\\source\\repos\\VideoGameApp_project\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\uif44780\\source\\repos\\VideoGameApp_project\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T12:06:13.562Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "site.js",
-              "DocumentMoniker": "C:\\Users\\uif44780\\source\\repos\\VideoGameApp_project\\wwwroot\\js\\site.js",
-              "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
-              "ToolTip": "C:\\Users\\uif44780\\source\\repos\\VideoGameApp_project\\wwwroot\\js\\site.js",
-              "RelativeToolTip": "wwwroot\\js\\site.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-02-10T11:51:09.292Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "20250210111847_DbUpdate.cs",
-              "DocumentMoniker": "C:\\Users\\uif44780\\source\\repos\\VideoGameApp_project\\Migrations\\20250210111847_DbUpdate.cs",
-              "RelativeDocumentMoniker": "Migrations\\20250210111847_DbUpdate.cs",
-              "ToolTip": "C:\\Users\\uif44780\\source\\repos\\VideoGameApp_project\\Migrations\\20250210111847_DbUpdate.cs",
-              "RelativeToolTip": "Migrations\\20250210111847_DbUpdate.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAIwCwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T11:18:47.829Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "20250209091533_InitialMigration.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\uif44780\\source\\repos\\VideoGameApp_project\\Migrations\\20250209091533_InitialMigration.Designer.cs",
-              "RelativeDocumentMoniker": "Migrations\\20250209091533_InitialMigration.Designer.cs",
-              "ToolTip": "C:\\Users\\uif44780\\source\\repos\\VideoGameApp_project\\Migrations\\20250209091533_InitialMigration.Designer.cs",
-              "RelativeToolTip": "Migrations\\20250209091533_InitialMigration.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T11:16:57.852Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "20250208212022_AddIdentityTables.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\uif44780\\source\\repos\\VideoGameApp_project\\Migrations\\20250208212022_AddIdentityTables.Designer.cs",
-              "RelativeDocumentMoniker": "Migrations\\20250208212022_AddIdentityTables.Designer.cs",
-              "ToolTip": "C:\\Users\\uif44780\\source\\repos\\VideoGameApp_project\\Migrations\\20250208212022_AddIdentityTables.Designer.cs",
-              "RelativeToolTip": "Migrations\\20250208212022_AddIdentityTables.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T11:07:21.671Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "ApplicationDbContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\uif44780\\source\\repos\\VideoGameApp_project\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\uif44780\\source\\repos\\VideoGameApp_project\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "RelativeToolTip": "Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T11:17:41.193Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "20250210102618_SeedData.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\uif44780\\source\\repos\\VideoGameApp_project\\Migrations\\20250210102618_SeedData.Designer.cs",
-              "RelativeDocumentMoniker": "Migrations\\20250210102618_SeedData.Designer.cs",
-              "ToolTip": "C:\\Users\\uif44780\\source\\repos\\VideoGameApp_project\\Migrations\\20250210102618_SeedData.Designer.cs",
-              "RelativeToolTip": "Migrations\\20250210102618_SeedData.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T11:17:36.377Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "20250210102326_InitialCreate.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\uif44780\\source\\repos\\VideoGameApp_project\\Migrations\\20250210102326_InitialCreate.Designer.cs",
-              "RelativeDocumentMoniker": "Migrations\\20250210102326_InitialCreate.Designer.cs",
-              "ToolTip": "C:\\Users\\uif44780\\source\\repos\\VideoGameApp_project\\Migrations\\20250210102326_InitialCreate.Designer.cs",
-              "RelativeToolTip": "Migrations\\20250210102326_InitialCreate.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T11:17:30.649Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "20250209091728_UpdateVideoGamesSchema.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\uif44780\\source\\repos\\VideoGameApp_project\\Migrations\\20250209091728_UpdateVideoGamesSchema.Designer.cs",
-              "RelativeDocumentMoniker": "Migrations\\20250209091728_UpdateVideoGamesSchema.Designer.cs",
-              "ToolTip": "C:\\Users\\uif44780\\source\\repos\\VideoGameApp_project\\Migrations\\20250209091728_UpdateVideoGamesSchema.Designer.cs",
-              "RelativeToolTip": "Migrations\\20250209091728_UpdateVideoGamesSchema.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T11:17:24.423Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "20250208212022_AddIdentityTables.cs",
-              "DocumentMoniker": "C:\\Users\\uif44780\\source\\repos\\VideoGameApp_project\\Migrations\\20250208212022_AddIdentityTables.cs",
-              "RelativeDocumentMoniker": "Migrations\\20250208212022_AddIdentityTables.cs",
-              "ToolTip": "C:\\Users\\uif44780\\source\\repos\\VideoGameApp_project\\Migrations\\20250208212022_AddIdentityTables.cs",
-              "RelativeToolTip": "Migrations\\20250208212022_AddIdentityTables.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwA4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T11:08:18.297Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "20250210102618_SeedData.cs",
-              "DocumentMoniker": "C:\\Users\\uif44780\\source\\repos\\VideoGameApp_project\\Migrations\\20250210102618_SeedData.cs",
-              "RelativeDocumentMoniker": "Migrations\\20250210102618_SeedData.cs",
-              "ToolTip": "C:\\Users\\uif44780\\source\\repos\\VideoGameApp_project\\Migrations\\20250210102618_SeedData.cs",
-              "RelativeToolTip": "Migrations\\20250210102618_SeedData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T10:26:18.365Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "20250210102326_InitialCreate.cs",
-              "DocumentMoniker": "C:\\Users\\uif44780\\source\\repos\\VideoGameApp_project\\Migrations\\20250210102326_InitialCreate.cs",
-              "RelativeDocumentMoniker": "Migrations\\20250210102326_InitialCreate.cs",
-              "ToolTip": "C:\\Users\\uif44780\\source\\repos\\VideoGameApp_project\\Migrations\\20250210102326_InitialCreate.cs",
-              "RelativeToolTip": "Migrations\\20250210102326_InitialCreate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T10:23:26.981Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\uif44780\\source\\repos\\VideoGameApp_project\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "appsettings.Development.json",
-              "ToolTip": "C:\\Users\\uif44780\\source\\repos\\VideoGameApp_project\\appsettings.Development.json",
-              "RelativeToolTip": "appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-10T10:18:28.879Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\uif44780\\source\\repos\\VideoGameApp_project\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -500,7 +203,188 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 10,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\uif44780\\source\\repos\\VideoGameApp_project\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\uif44780\\source\\repos\\VideoGameApp_project\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAABMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-10T11:27:01.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\uif44780\\source\\repos\\VideoGameApp_project\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\uif44780\\source\\repos\\VideoGameApp_project\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAkwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T12:06:13.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_RegisterLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\uif44780\\source\\repos\\VideoGameApp_project\\Views\\Shared\\_RegisterLayout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_RegisterLayout.cshtml",
+              "ToolTip": "C:\\Users\\uif44780\\source\\repos\\VideoGameApp_project\\Views\\Shared\\_RegisterLayout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_RegisterLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-10T11:31:03.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\uif44780\\source\\repos\\VideoGameApp_project\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\uif44780\\source\\repos\\VideoGameApp_project\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAGEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T10:41:48.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Popular.cshtml",
+              "DocumentMoniker": "C:\\Users\\uif44780\\source\\repos\\VideoGameApp_project\\Views\\VideoGames\\Popular.cshtml",
+              "RelativeDocumentMoniker": "Views\\VideoGames\\Popular.cshtml",
+              "ToolTip": "C:\\Users\\uif44780\\source\\repos\\VideoGameApp_project\\Views\\VideoGames\\Popular.cshtml",
+              "RelativeToolTip": "Views\\VideoGames\\Popular.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-10T12:13:39.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\uif44780\\source\\repos\\VideoGameApp_project\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\uif44780\\source\\repos\\VideoGameApp_project\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-10T11:59:22.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\uif44780\\source\\repos\\VideoGameApp_project\\Views\\VideoGames\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\VideoGames\\Index.cshtml",
+              "ToolTip": "C:\\Users\\uif44780\\source\\repos\\VideoGameApp_project\\Views\\VideoGames\\Index.cshtml",
+              "RelativeToolTip": "Views\\VideoGames\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-10T13:42:29.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\uif44780\\source\\repos\\VideoGameApp_project\\Views\\VideoGames\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\VideoGames\\Create.cshtml",
+              "ToolTip": "C:\\Users\\uif44780\\source\\repos\\VideoGameApp_project\\Views\\VideoGames\\Create.cshtml",
+              "RelativeToolTip": "Views\\VideoGames\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-10T14:01:19.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_LoginLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\uif44780\\source\\repos\\VideoGameApp_project\\Views\\Shared\\_LoginLayout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LoginLayout.cshtml",
+              "ToolTip": "C:\\Users\\uif44780\\source\\repos\\VideoGameApp_project\\Views\\Shared\\_LoginLayout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LoginLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-10T13:38:58.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VideoGameController.cs",
+              "DocumentMoniker": "C:\\Users\\uif44780\\source\\repos\\VideoGameApp_project\\Controllers\\VideoGameController.cs",
+              "RelativeDocumentMoniker": "Controllers\\VideoGameController.cs",
+              "ToolTip": "C:\\Users\\uif44780\\source\\repos\\VideoGameApp_project\\Controllers\\VideoGameController.cs",
+              "RelativeToolTip": "Controllers\\VideoGameController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAACEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T12:02:04.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PopularGame.cs",
+              "DocumentMoniker": "C:\\Users\\uif44780\\source\\repos\\VideoGameApp_project\\Models\\PopularGame.cs",
+              "RelativeDocumentMoniker": "Models\\PopularGame.cs",
+              "ToolTip": "C:\\Users\\uif44780\\source\\repos\\VideoGameApp_project\\Models\\PopularGame.cs",
+              "RelativeToolTip": "Models\\PopularGame.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T12:16:48.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "VideoGameService.cs",
+              "DocumentMoniker": "C:\\Users\\uif44780\\source\\repos\\VideoGameApp_project\\Services\\VideoGameService.cs",
+              "RelativeDocumentMoniker": "Services\\VideoGameService.cs",
+              "ToolTip": "C:\\Users\\uif44780\\source\\repos\\VideoGameApp_project\\Services\\VideoGameService.cs",
+              "RelativeToolTip": "Services\\VideoGameService.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAwwEEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T11:17:45.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\uif44780\\source\\repos\\VideoGameApp_project\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\uif44780\\source\\repos\\VideoGameApp_project\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-10T10:27:39.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\uif44780\\source\\repos\\VideoGameApp_project\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\uif44780\\source\\repos\\VideoGameApp_project\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "ViewModels\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T12:23:08.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\uif44780\\source\\repos\\VideoGameApp_project\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\uif44780\\source\\repos\\VideoGameApp_project\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-10T11:51:09.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\uif44780\\source\\repos\\VideoGameApp_project\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -508,8 +392,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T10:09:34.809Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-10T10:09:34.809Z"
             }
           ]
         }

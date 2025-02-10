@@ -7,6 +7,7 @@ C:\Users\uif44780\source\repos\VideoGameApp_project\obj\Debug\net9.0\VideoGameAp
 C:\Users\uif44780\source\repos\VideoGameApp_project\obj\Debug\net9.0\VideoGameApp.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\uif44780\source\repos\VideoGameApp_project\obj\Debug\net9.0\VideoGameApp.RazorAssemblyInfo.cache
 C:\Users\uif44780\source\repos\VideoGameApp_project\obj\Debug\net9.0\VideoGameApp.RazorAssemblyInfo.cs
+C:\Users\uif44780\source\repos\VideoGameApp_project\obj\Debug\net9.0\VideoGameApp.sourcelink.json
 C:\Users\uif44780\source\repos\VideoGameApp_project\bin\Debug\net9.0\appsettings.Development.json
 C:\Users\uif44780\source\repos\VideoGameApp_project\bin\Debug\net9.0\appsettings.json
 C:\Users\uif44780\source\repos\VideoGameApp_project\bin\Debug\net9.0\package-lock.json

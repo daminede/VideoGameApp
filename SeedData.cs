@@ -21,7 +21,7 @@ namespace VideoGameApp.Migrations
 
             // Seed VideoGames
             migrationBuilder.InsertData(
-                table: "VideoGame",
+                table: "VideoGames",
                 columns: new[] { "Id", "Title", "Genre", "Price", "Description", "ReleaseDate", "DeveloperId" },
                 values: new object[,]
                 {
@@ -34,12 +34,12 @@ namespace VideoGameApp.Migrations
         {
             // Remove VideoGames
             migrationBuilder.DeleteData(
-                table: "VideoGame",
+                table: "VideoGames",
                 keyColumn: "Id",
                 keyValue: 1);
 
             migrationBuilder.DeleteData(
-                table: "VideoGame",
+                table: "VideoGames",
                 keyColumn: "Id",
                 keyValue: 2);
 
@@ -56,3 +56,4 @@ namespace VideoGameApp.Migrations
         }
     }
 }
+
